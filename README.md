@@ -10,7 +10,7 @@ TARS實驗室系統晶片實作專題
 
         2. Highly Reliable circuit design(TMR)
 
-        3. Design for security(Logic Locking)
+        3. Design for security(Logic Locking)(目前上傳的兩個版本尚未加入此設計)
 
         4. Logic synthesis
 
